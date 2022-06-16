@@ -1,2 +1,0 @@
-C:\Users\win7\source\repos\hazem oop\x64\Debug\Logic gates simulator.exe
-C:\Users\win7\source\repos\hazem oop\x64\Debug\Logic gates simulator.pdb
