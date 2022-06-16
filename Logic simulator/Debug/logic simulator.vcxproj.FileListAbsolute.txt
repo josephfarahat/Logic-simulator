@@ -1,2 +1,0 @@
-C:\Users\win7\source\repos\hazem oop\Debug\hazem oop.exe
-C:\Users\win7\source\repos\hazem oop\Debug\hazem oop.pdb
